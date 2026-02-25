@@ -1,0 +1,19 @@
+# Visual Studio Build Results
+[Bb]in/
+[Ob]j/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docu
+
+# Visual Studio 2015/2017/2019/2022 cache models
+.vs/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Packages
+*.nupkg
+packages/
