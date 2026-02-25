@@ -1,0 +1,14 @@
+C:\STUDIES\מבני נתונים\task\task\bin\Debug\net8.0\task.exe
+C:\STUDIES\מבני נתונים\task\task\bin\Debug\net8.0\task.deps.json
+C:\STUDIES\מבני נתונים\task\task\bin\Debug\net8.0\task.runtimeconfig.json
+C:\STUDIES\מבני נתונים\task\task\bin\Debug\net8.0\task.dll
+C:\STUDIES\מבני נתונים\task\task\bin\Debug\net8.0\task.pdb
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.dll
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\refint\task.dll
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.pdb
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+C:\STUDIES\מבני נתונים\task\task\obj\Debug\net8.0\ref\task.dll
